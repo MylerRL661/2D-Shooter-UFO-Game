@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\myles\desktop\ufo shooter\ufo shooter\ufo shooter\timer.h(19): warning C4244: '=': conversion from 'Uint64' to 'uint32_t', possible loss of data
+  UFO Shooter.vcxproj -> C:\Users\myles\Desktop\UFO Shooter\UFO Shooter\Debug\UFO Shooter.exe
